@@ -1,0 +1,6 @@
+{
+  "name": "EduGest - Gestion des Étudiants",
+  "description": "Logiciel moderne de gestion des étudiants, matières, évaluations, notes, calculs de moyennes pondérées et génération de bulletins scolaires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
